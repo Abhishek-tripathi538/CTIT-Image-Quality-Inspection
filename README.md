@@ -1,1 +1,0 @@
-# CTIT-Image-Quality-Inspection
